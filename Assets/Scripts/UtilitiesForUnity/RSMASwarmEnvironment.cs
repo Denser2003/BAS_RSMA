@@ -7,7 +7,7 @@ public class RSMASwarmEnvironment : MonoBehaviour
     public GameObject dronePrefab;
     public GameObject payloadPrefab;
 
-    public Vector3 startPosition = new Vector3(0, 0.18f, 0);
+    public Vector3 startPosition = new Vector3(115, 0.18f, 96);
 
     [Header("Параметры роя")]
     public int numDrones = 6;

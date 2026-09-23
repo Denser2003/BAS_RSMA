@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Apps\MissionPlanner\Interaction\PointSelector.cs" />
     <Compile Include="Assets\Scenes\SuspensionStand\Scripts\IrregularitiesSpawner.cs" />
     <Compile Include="Assets\Scripts\RSMACable.cs" />
+    <Compile Include="Assets\Fab_plugin\FabImporter.cs" />
     <Compile Include="Assets\Scenes\SuspensionStand\Scripts\IrregularitiesMover.cs" />
     <Compile Include="Assets\Scripts\RSMAMechanicalPart.cs" />
     <Compile Include="Assets\Scripts\RSMAArticulationBase.cs" />
@@ -123,6 +124,7 @@
     <Compile Include="Assets\Scripts\Apps\NetMQServer\Src\ServerApp.cs" />
     <Compile Include="Assets\Scripts\UtilitiesForUnity\AutoDocsMD.cs" />
     <Compile Include="Assets\Scripts\Apps\NetMQServer\Src\NetworkResponse.cs" />
+    <Compile Include="Assets\Fab_plugin\FabImporterHelpers.cs" />
     <Compile Include="Assets\Scripts\LED\RSMALED.cs" />
     <Compile Include="Assets\Scripts\uDTP\Topics\RobotVelocity.cs" />
     <Compile Include="Assets\Scripts\Apps\NetMQServer\Src\NetworkPacket.cs" />
@@ -132,6 +134,7 @@
     <Compile Include="Assets\Scripts\Microcontroller\Programs\Maruz.cs" />
     <Compile Include="Assets\Scripts\Microcontroller\MicrocontrollerInterfaces.cs" />
     <Compile Include="Assets\Scripts\uDTP\Topics\LaserScan128.cs" />
+    <Compile Include="Assets\Fab_plugin\FabSystemHelpers.cs" />
     <Compile Include="Assets\Scripts\Apps\MissionPlanner\Core\MissionManager.cs" />
     <Compile Include="Assets\Scripts\Motor\RSMAMotor2.cs" />
     <Compile Include="Assets\Scripts\Encoder\RSMAEncoder.cs" />
@@ -144,6 +147,7 @@
     <Compile Include="Assets\StandaloneFileBrowser\Sample\CanvasSampleOpenFileTextMultiple.cs" />
     <Compile Include="Assets\Scripts\Wheels\VecEnum.cs" />
     <Compile Include="Assets\Scripts\Microcontroller\SerialController.cs" />
+    <Compile Include="Assets\Fab_plugin\MegascansUtilitiesLegacy.cs" />
     <Compile Include="Assets\Scripts\Microcontroller\Programs\DriverTest.cs" />
     <Compile Include="Assets\Scripts\Apps\MissionPlanner\Interaction\MissionRaycaster.cs" />
     <Compile Include="Assets\Scripts\Microcontroller\Programs\MaruzVelocity.cs" />
@@ -172,6 +176,7 @@
     <Compile Include="Assets\Scripts\Apps\MissionPlanner\Core\PolygonPathGenerator.cs" />
     <Compile Include="Assets\Scripts\Apps\ObjectManager\Src\ObjectManagerUI.cs" />
     <Compile Include="Assets\StandaloneFileBrowser\Sample\CanvasSampleOpenFileText.cs" />
+    <Compile Include="Assets\Fab_plugin\MegascansMeshUtilitiesLegacy.cs" />
     <Compile Include="Assets\StandaloneFileBrowser\Sample\BasicSample.cs" />
     <Compile Include="Assets\Scripts\Microcontroller\Programs\Stepper.cs" />
     <Compile Include="Assets\Scripts\RSMAHybridJoint.cs" />
@@ -247,6 +252,7 @@
     <None Include="Assets\Packages\AsyncIO.0.1.69\lib\netstandard2.0\AsyncIO.dll" />
     <None Include="Assets\Packages\System.Security.Cryptography.Cng.5.0.0\LICENSE.TXT" />
     <None Include="Assets\Packages\System.Security.Principal.Windows.5.0.0\LICENSE.TXT" />
+    <None Include="Assets\Fab_plugin\Newtonsoft.Json.dll" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
     <None Include="Assets\Packages\System.Collections.Immutable.10.0.7\THIRD-PARTY-NOTICES.TXT" />
     <None Include="Assets\Packages\System.Collections.Immutable.10.0.7\useSharedDesignerContext.txt" />
